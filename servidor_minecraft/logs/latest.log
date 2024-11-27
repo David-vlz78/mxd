@@ -145,3 +145,16 @@
 [19:27:12] [Server thread/INFO]: [Marlon_44: Set own game mode to Survival Mode]
 [19:35:01] [Server thread/INFO]: Marlon_44 issued server command: /gamemode creative
 [19:35:01] [Server thread/INFO]: [Marlon_44: Set own game mode to Creative Mode]
+[19:41:02] [Server thread/INFO]: Marlon_44 issued server command: /gamemode survival
+[19:41:02] [Server thread/INFO]: [Marlon_44: Set own game mode to Survival Mode]
+[19:44:02] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Arlison57
+[19:44:02] [localSession-7-2/INFO]: [Geyser-Spigot] Arlison57 (logged in as: Arlison57) has connected to the Java server
+[19:44:02] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Arlison57 joined (UUID: 00000000-0000-0000-0009-01f484ffa512)
+[19:44:03] [Server thread/INFO]: .Arlison57 joined the game
+[19:44:03] [Server thread/INFO]: .Arlison57[/127.0.0.1:0] logged in with entity id 11980 at ([world]235.3694, 72.04714, 667.6058)
+[19:44:14] [Async Chat Thread - #0/INFO]: [Not Secure] <Marlon_44> llegue
+[19:44:20] [localSession-7-2/INFO]: [Geyser-Spigot] Arlison57 has disconnected from the Java server because of Bedrock client timed out
+[19:44:20] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Arlison57 disconnected
+[19:44:20] [Server thread/INFO]: .Arlison57 lost connection: Disconnected
+[19:44:20] [Server thread/INFO]: .Arlison57 left the game
+[19:44:46] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Bedrock client disconnected
