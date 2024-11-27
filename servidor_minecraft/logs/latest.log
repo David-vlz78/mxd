@@ -141,3 +141,7 @@
 [19:25:19] [Server thread/INFO]: [Marlon_44: Set own game mode to Survival Mode]
 [19:25:47] [Server thread/INFO]: Marlon_44 issued server command: /gamemode creative
 [19:25:47] [Server thread/INFO]: [Marlon_44: Set own game mode to Creative Mode]
+[19:27:12] [Server thread/INFO]: Marlon_44 issued server command: /gamemode survival
+[19:27:12] [Server thread/INFO]: [Marlon_44: Set own game mode to Survival Mode]
+[19:35:01] [Server thread/INFO]: Marlon_44 issued server command: /gamemode creative
+[19:35:01] [Server thread/INFO]: [Marlon_44: Set own game mode to Creative Mode]
