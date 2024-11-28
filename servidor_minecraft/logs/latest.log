@@ -253,3 +253,183 @@
 [03:38:14] [Server thread/INFO]: [.EvertCL: Teleported .EvertCL to .Waitanam]
 [03:38:29] [Server thread/INFO]: Marlon_44 issued server command: /tp .EvertCL
 [03:38:29] [Server thread/INFO]: [Marlon_44: Teleported Marlon_44 to .EvertCL]
+[03:39:35] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Waitanam disconnected
+[03:39:35] [localSession-7-3/INFO]: [Geyser-Spigot] Waitanam has disconnected from the Java server because of Bedrock client disconnected
+[03:39:35] [Server thread/INFO]: .Waitanam lost connection: Disconnected
+[03:39:35] [Server thread/INFO]: .Waitanam left the game
+[03:40:09] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Waitanam
+[03:40:09] [localSession-7-4/INFO]: [Geyser-Spigot] Waitanam (logged in as: Waitanam) has connected to the Java server
+[03:40:10] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Waitanam joined (UUID: 00000000-0000-0000-0009-01f3d733d214)
+[03:40:10] [Server thread/INFO]: .Waitanam joined the game
+[03:40:10] [Server thread/INFO]: .Waitanam[/127.0.0.1:0] logged in with entity id 6509 at ([world]610.51249, 104.0, -233.87585)
+[03:40:29] [Server thread/INFO]: Marlon_44 issued server command: /time set day
+[03:40:29] [Server thread/INFO]: [Marlon_44: Set the time to 1000]
+[03:40:36] [Server thread/INFO]: .EvertCL issued server command: /time set night
+[03:40:36] [Server thread/INFO]: [.EvertCL: Set the time to 13000]
+[03:40:48] [Server thread/INFO]: .EvertCL issued server command: /weather thunder
+[03:40:48] [Server thread/INFO]: [.EvertCL: Set the weather to rain & thunder]
+[03:40:48] [Server thread/INFO]: .EvertCL issued server command: /time set sunrise
+[03:42:01] [Server thread/INFO]: Marlon_44 issued server command: /gamemode creative
+[03:42:01] [Server thread/INFO]: [Marlon_44: Set own game mode to Creative Mode]
+[03:42:16] [Server thread/INFO]: Marlon_44 issued server command: /gamemode survival
+[03:42:16] [Server thread/INFO]: [Marlon_44: Set own game mode to Survival Mode]
+[03:43:46] [Server thread/INFO]: Marlon_44 issued server command: /effect give FaceLgooo minecraft:haste
+[03:43:46] [Server thread/INFO]: [Marlon_44: Applied effect Haste to FaceLgooo]
+[03:43:49] [Server thread/INFO]: .EvertCL issued server command: /time set day
+[03:43:49] [Server thread/INFO]: [.EvertCL: Set the time to 1000]
+[03:44:19] [Server thread/INFO]: Marlon_44 issued server command: /effect give FaceLgooo minecraft:haste 100 50 true
+[03:44:19] [Server thread/INFO]: [Marlon_44: Applied effect Haste to FaceLgooo]
+[03:44:24] [Server thread/INFO]: Marlon_44 issued server command: /gamemode creative
+[03:44:24] [Server thread/INFO]: [Marlon_44: Set own game mode to Creative Mode]
+[03:44:26] [Server thread/INFO]: Marlon_44 issued server command: /gamemode survival
+[03:44:26] [Server thread/INFO]: [Marlon_44: Set own game mode to Survival Mode]
+[03:44:28] [Server thread/INFO]: Marlon_44 issued server command: /gamemode spectator
+[03:44:28] [Server thread/INFO]: [Marlon_44: Set own game mode to Spectator Mode]
+[03:44:35] [Server thread/INFO]: Marlon_44 issued server command: /tp FaceLgooo
+[03:44:35] [Server thread/INFO]: [Marlon_44: Teleported Marlon_44 to FaceLgooo]
+[03:44:36] [Server thread/INFO]: .EvertCL issued server command: /tp .EvertCL Marlon_44
+[03:44:36] [Server thread/INFO]: [.EvertCL: Teleported .EvertCL to Marlon_44]
+[03:44:36] [Server thread/WARN]: .EvertCL moved too quickly! -236.3617430321044,18.0,-218.90194476325175
+[03:44:36] [Server thread/WARN]: .EvertCL moved too quickly! -236.3617430321044,18.0,-218.90194476325175
+[03:44:36] [Server thread/WARN]: .EvertCL moved too quickly! -236.3617430321044,18.0,-218.90194476325175
+[03:44:36] [Server thread/WARN]: .EvertCL moved too quickly! -236.3617430321044,18.0,-218.90194476325175
+[03:44:36] [Server thread/WARN]: .EvertCL moved too quickly! -236.3617430321044,18.0,-218.90194476325175
+[03:44:36] [Server thread/WARN]: .EvertCL moved too quickly! -236.3617430321044,18.0,-218.90194476325175
+[03:44:46] [Server thread/WARN]: .EvertCL was kicked for floating too long!
+[03:44:46] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .EvertCL disconnected
+[03:44:46] [localSession-7-2/INFO]: [Geyser-Spigot] EvertCL has disconnected from the Java server because of End of stream
+[03:44:46] [Server thread/INFO]: .EvertCL lost connection: Flying is not enabled on this server
+[03:44:46] [Server thread/INFO]: .EvertCL left the game
+[03:45:08] [Server thread/INFO]: Marlon_44 issued server command: /effect give FaceLgooo minecraft:haste 100 100
+[03:45:08] [Server thread/INFO]: [Marlon_44: Applied effect Haste to FaceLgooo]
+[03:45:14] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username EvertCL
+[03:45:14] [localSession-7-1/INFO]: [Geyser-Spigot] EvertCL (logged in as: EvertCL) has connected to the Java server
+[03:45:15] [Server thread/INFO]: [floodgate] Floodgate player logged in as .EvertCL joined (UUID: 00000000-0000-0000-0009-01ffbe16af14)
+[03:45:15] [Server thread/INFO]: .EvertCL joined the game
+[03:45:15] [Server thread/INFO]: .EvertCL[/127.0.0.1:0] logged in with entity id 7868 at ([world]406.20456, 85.5792795225521, -329.4809)
+[03:45:42] [Server thread/INFO]: .EvertCL issued server command: /tp .EvertCL Marlon_44
+[03:45:42] [Server thread/INFO]: [.EvertCL: Teleported .EvertCL to Marlon_44]
+[03:45:42] [Server thread/WARN]: .EvertCL moved too quickly! -3.6072511309657784,31.363502941715446,-5.55322184673571
+[03:45:42] [Server thread/WARN]: .EvertCL moved too quickly! -3.6072511309657784,31.363502941715446,-5.55322184673571
+[03:46:21] [Server thread/INFO]: .EvertCL issued server command: /tp FaceLgooo .EvertCL
+[03:46:21] [Server thread/INFO]: [.EvertCL: Teleported FaceLgooo to .EvertCL]
+[03:46:40] [Server thread/INFO]: .EvertCL issued server command: /tp .EvertCL .Waitanam
+[03:46:40] [Server thread/INFO]: [.EvertCL: Teleported .EvertCL to .Waitanam]
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:46:40] [Server thread/WARN]: .EvertCL moved too quickly! 210.07414000000006,15.0,88.77698000000001
+[03:47:05] [Server thread/INFO]: Marlon_44 issued server command: /effect give Marlon_44 minecraft:haste infinite 90
+[03:47:05] [Server thread/INFO]: [Marlon_44: Applied effect Haste to Marlon_44]
+[03:47:29] [Server thread/INFO]: Marlon_44 issued server command: /effect clear Marlon_44 minecraft:haste infinite 90
+[03:47:36] [Server thread/INFO]: Marlon_44 issued server command: /effect clear Marlon_44 minecraft:haste
+[03:47:36] [Server thread/INFO]: [Marlon_44: Removed effect Haste from Marlon_44]
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -15.946900000000028,0.0,2.367220000000003
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:47:52] [Server thread/WARN]: .EvertCL moved too quickly! -16.02161000000001,0.12127999999999872,2.380279999999999
+[03:48:46] [Server thread/INFO]: Marlon_44 issued server command: /summon minecraft:enderman
+[03:48:46] [Server thread/INFO]: [Marlon_44: Summoned new Enderman]
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
+[03:48:50] [Server thread/WARN]: .EvertCL moved too quickly! 10.973259999999982,-0.7663699999999949,0.8699000000000012
