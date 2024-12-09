@@ -66,3 +66,13 @@
 [01:45:03] [Server thread/INFO]: Marlon_44[/127.213.176.218:33187] logged in with entity id 113 at ([world]419.1434639404789, 89.0, -325.9220542559208)
 [01:45:20] [Server thread/INFO]: Marlon_44 issued server command: /gamemode survival
 [01:45:20] [Server thread/INFO]: [Marlon_44: Set own game mode to Survival Mode]
+[01:48:42] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Bedrock client timed out
+[01:50:06] [User Authenticator #1/INFO]: UUID of player FaceLgooo is 5b8f26bd-0fb2-3850-a88b-15203dcbdb06
+[01:50:09] [Server thread/INFO]: FaceLgooo joined the game
+[01:50:09] [Server thread/INFO]: FaceLgooo[/127.158.171.246:49953] logged in with entity id 2346 at ([world]421.2462827861688, 89.0, -317.03484497203476)
+[01:50:33] [Server thread/INFO]: Marlon_44 lost connection: Disconnected
+[01:50:33] [Server thread/INFO]: Marlon_44 left the game
+[01:52:27] [User Authenticator #2/INFO]: UUID of player Marlon_44 is 094bd054-fbb4-3479-8bff-f942c7c9b646
+[01:52:30] [Server thread/INFO]: Marlon_44 joined the game
+[01:52:30] [Server thread/INFO]: Marlon_44[/127.213.176.218:33777] logged in with entity id 2776 at ([world]245.71747058410426, 69.0, 663.4857965096163)
+[01:54:57] [Server thread/INFO]: FaceLgooo fell from a high place
