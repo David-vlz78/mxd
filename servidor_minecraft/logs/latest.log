@@ -61,3 +61,8 @@
 [01:29:31] [Server thread/INFO]: Timings Reset
 [01:29:31] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
 [01:29:31] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.0, you're on: 5.1.1
+[01:44:58] [User Authenticator #0/INFO]: UUID of player Marlon_44 is 094bd054-fbb4-3479-8bff-f942c7c9b646
+[01:45:02] [Server thread/INFO]: Marlon_44 joined the game
+[01:45:03] [Server thread/INFO]: Marlon_44[/127.213.176.218:33187] logged in with entity id 113 at ([world]419.1434639404789, 89.0, -325.9220542559208)
+[01:45:20] [Server thread/INFO]: Marlon_44 issued server command: /gamemode survival
+[01:45:20] [Server thread/INFO]: [Marlon_44: Set own game mode to Survival Mode]
