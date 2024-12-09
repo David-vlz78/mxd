@@ -95,3 +95,6 @@
 [02:10:55] [Server thread/INFO]: [Marlon_44: Set own game mode to Survival Mode]
 [02:24:49] [Server thread/INFO]: Marlon_44 lost connection: Disconnected
 [02:24:49] [Server thread/INFO]: Marlon_44 left the game
+[02:39:55] [User Authenticator #3/INFO]: UUID of player Marlon_44 is 094bd054-fbb4-3479-8bff-f942c7c9b646
+[02:39:58] [Server thread/INFO]: Marlon_44 joined the game
+[02:39:58] [Server thread/INFO]: Marlon_44[/127.213.176.218:40793] logged in with entity id 16799 at ([world]254.30000001192093, 64.0, 611.3125829524997)
