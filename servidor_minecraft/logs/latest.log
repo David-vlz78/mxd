@@ -98,3 +98,37 @@
 [02:39:55] [User Authenticator #3/INFO]: UUID of player Marlon_44 is 094bd054-fbb4-3479-8bff-f942c7c9b646
 [02:39:58] [Server thread/INFO]: Marlon_44 joined the game
 [02:39:58] [Server thread/INFO]: Marlon_44[/127.213.176.218:40793] logged in with entity id 16799 at ([world]254.30000001192093, 64.0, 611.3125829524997)
+[03:03:23] [Server thread/INFO]: Marlon_44 lost connection: Disconnected
+[03:03:23] [Server thread/INFO]: Marlon_44 left the game
+[03:03:55] [Server thread/INFO]: Stopping the server
+[03:03:55] [Server thread/INFO]: Stopping server
+[03:03:55] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.5.0-SNAPSHOT
+[03:03:55] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[03:03:55] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[03:03:55] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.1.1
+[03:03:55] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[03:03:55] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[03:03:55] [WebSocketConnectReadThread-83/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[03:03:55] [Server thread/INFO]: Saving players
+[03:03:55] [Server thread/INFO]: FaceLgooo lost connection: Server closed
+[03:03:55] [Server thread/INFO]: FaceLgooo left the game
+[03:03:55] [Server thread/INFO]: Saving worlds
+[03:03:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:03:55] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:03:55] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:03:55] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:03:56] [Server thread/INFO]: [ChunkHolderManager] Saved 16 block chunks, 210 entity chunks, 1 poi chunks in world 'world' in 0.16s
+[03:03:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:03:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:03:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:03:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:03:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 20 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[03:03:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:03:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:03:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:03:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:03:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 23 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[03:03:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:03:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:03:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:03:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
